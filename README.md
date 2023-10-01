@@ -1,1 +1,5 @@
 # H1b-Visa-Prediction
+
+The H1b visa program is a non-immigrant visa program that allows US employers to hire foreign workers in specialty occupations for a limited period. The program has significant implications for both employers and foreign workers, as it provides opportunities for highly skilled professionals to work in the United States but also presents significant challenges and uncertainties in terms of the application process and visa approval.  
+
+My project's aim is to develop a predictive model for forecasting the likelihood of a foreign worker being granted an H1B visa by the United States government. The H1B visa application process is complex and has significant implications for both employers and foreign workers. My  model will leverage a large and complex dataset containing information about H1b visa applications, including applicant demographics, job details, and employer characteristics. My project is expected to contribute to a better understanding of the H1B visa application process and provide useful insights for employers and foreign workers.
